@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS-Projects\\AuthWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\wwwroot\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\wwwroot\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\migrations\\20240618192447_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\migrations\\20240618192447_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\authwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\authwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\scripts.js",
+              "RelativeDocumentMoniker": "AuthWebAPI\\wwwroot\\scripts.js",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\scripts.js",
+              "RelativeToolTip": "AuthWebAPI\\wwwroot\\scripts.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T19:52:39.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "AuthWebAPI\\wwwroot\\styles.css",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\styles.css",
+              "RelativeToolTip": "AuthWebAPI\\wwwroot\\styles.css",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-18T19:52:04.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.html",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "AuthWebAPI\\wwwroot\\login.html",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\login.html",
+              "RelativeToolTip": "AuthWebAPI\\wwwroot\\login.html",
+              "ViewState": "AQIAACwAAAAAAAAAAADwvzgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-18T19:51:45.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthWebAPI",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\AuthWebAPI.csproj",
+              "RelativeDocumentMoniker": "AuthWebAPI\\AuthWebAPI.csproj",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\AuthWebAPI.csproj",
+              "RelativeToolTip": "AuthWebAPI\\AuthWebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T19:50:50.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240618192447_InitialCreate.cs",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Migrations\\20240618192447_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Migrations\\20240618192447_InitialCreate.cs",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Migrations\\20240618192447_InitialCreate.cs",
+              "RelativeToolTip": "AuthWebAPI\\Migrations\\20240618192447_InitialCreate.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:24:48.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:20:49.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthWebAPI\\appsettings.json",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\appsettings.json",
+              "RelativeToolTip": "AuthWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T19:20:17.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AuthWebAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:16:09.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthWebAPI\\Program.cs",
+              "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Program.cs",
+              "RelativeToolTip": "AuthWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:14:17.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

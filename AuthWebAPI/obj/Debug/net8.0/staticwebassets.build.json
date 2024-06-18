@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "jOd8/w+AkcNx411GC9PiZpauuED0Lpr4cx2X+1qAokQ=",
+  "Source": "AuthWebAPI",
+  "BasePath": "_content/AuthWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AuthWebAPI\\wwwroot",
+      "Source": "AuthWebAPI",
+      "ContentRoot": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\",
+      "BasePath": "_content/AuthWebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\login.html",
+      "SourceId": "AuthWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\",
+      "BasePath": "_content/AuthWebAPI",
+      "RelativePath": "login.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\scripts.js",
+      "SourceId": "AuthWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\",
+      "BasePath": "_content/AuthWebAPI",
+      "RelativePath": "scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts.js"
+    },
+    {
+      "Identity": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\styles.css",
+      "SourceId": "AuthWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\",
+      "BasePath": "_content/AuthWebAPI",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

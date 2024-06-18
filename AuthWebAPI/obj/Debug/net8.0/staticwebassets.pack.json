@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\scripts.js",
+      "PackagePath": "staticwebassets\\scripts.js"
+    },
+    {
+      "Id": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AuthWebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AuthWebAPI.props",
+      "PackagePath": "build\\AuthWebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AuthWebAPI.props",
+      "PackagePath": "buildMultiTargeting\\AuthWebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AuthWebAPI.props",
+      "PackagePath": "buildTransitive\\AuthWebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
