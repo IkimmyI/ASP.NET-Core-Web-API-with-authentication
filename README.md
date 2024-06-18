@@ -3,4 +3,4 @@ Hello this is simple project of how to create an ASP.NET Core Web API with authe
 
 Do not forget to Configure JWT Settings(Add Your Strong Key).
 
-and there is simple login page for testing("https://localhost:<port>/login.html").
+and there is simple login page for testing("https://yourlocalhost:<port>/login.html").
