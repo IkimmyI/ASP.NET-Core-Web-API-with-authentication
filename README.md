@@ -6,5 +6,3 @@ Hello this is simple project of how to create an ASP.NET Core Web API with authe
 - And there is simple login page for testing("/login.html").
 
 - By Kimmy.
-
-- Still under development to add some features.
