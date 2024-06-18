@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\VS-Projects\\AuthWebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\wwwroot\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\wwwroot\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|d:\\vs-projects\\authwebapi\\authwebapi\\authwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{09405FCF-C03A-483E-BF8D-9E88CC485A66}|AuthWebAPI\\AuthWebAPI.csproj|solutionrelative:authwebapi\\authwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "scripts.js",
               "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\scripts.js",
               "RelativeDocumentMoniker": "AuthWebAPI\\wwwroot\\scripts.js",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "styles.css",
               "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\styles.css",
               "RelativeDocumentMoniker": "AuthWebAPI\\wwwroot\\styles.css",
@@ -71,12 +71,11 @@
               "RelativeToolTip": "AuthWebAPI\\wwwroot\\styles.css",
               "ViewState": "AQIAAAUAAAAAAAAAAADwvxwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-18T19:52:04.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T19:52:04.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "login.html",
               "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\wwwroot\\login.html",
               "RelativeDocumentMoniker": "AuthWebAPI\\wwwroot\\login.html",
@@ -84,25 +83,23 @@
               "RelativeToolTip": "AuthWebAPI\\wwwroot\\login.html",
               "ViewState": "AQIAACwAAAAAAAAAAADwvzgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-18T19:51:45.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T19:51:45.089Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AuthWebAPI",
+              "Title": "AuthWebAPI.csproj",
               "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\AuthWebAPI.csproj",
               "RelativeDocumentMoniker": "AuthWebAPI\\AuthWebAPI.csproj",
               "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\AuthWebAPI.csproj",
               "RelativeToolTip": "AuthWebAPI\\AuthWebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-18T19:50:50.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T19:50:50.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20240618192447_InitialCreate.cs",
               "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Migrations\\20240618192447_InitialCreate.cs",
               "RelativeDocumentMoniker": "AuthWebAPI\\Migrations\\20240618192447_InitialCreate.cs",
@@ -110,12 +107,11 @@
               "RelativeToolTip": "AuthWebAPI\\Migrations\\20240618192447_InitialCreate.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:24:48.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T19:24:48.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "AuthWebAPI\\Controllers\\AuthController.cs",
@@ -123,18 +119,17 @@
               "RelativeToolTip": "AuthWebAPI\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:20:49.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T19:20:49.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "AuthWebAPI\\appsettings.json",
               "ToolTip": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\appsettings.json",
               "RelativeToolTip": "AuthWebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-18T19:20:17.362Z",
               "EditorCaption": ""
@@ -149,12 +144,11 @@
               "RelativeToolTip": "AuthWebAPI\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:16:09.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T19:16:09.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\VS-Projects\\AuthWebAPI\\AuthWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "AuthWebAPI\\Program.cs",
@@ -162,8 +156,7 @@
               "RelativeToolTip": "AuthWebAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T19:14:17.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T19:14:17.882Z"
             }
           ]
         }
