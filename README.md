@@ -3,8 +3,8 @@ Hello this is simple project of how to create an ASP.NET Core Web API with authe
 
 - Do not forget to Configure JWT Settings(Add Your Strong Key).
 
-- and there is simple login page for testing("/login.html").
+- And there is simple login page for testing("/login.html").
 
 - By Kimmy.
 
-- still under development to add some features.
+- Still under development to add some features.
